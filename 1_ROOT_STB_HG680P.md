@@ -3,23 +3,23 @@
 
 Thanks to [WonoByte Channel](https://www.youtube.com/watch?v=qzeUDvmQjpU&ab_channel=WonoByteChannel)
 
-# RND - EKI INDRADI - TESTED 2024-06-10 
+RND - EKI INDRADI - TESTED 2024-06-10 
 
-# HARDWARE :
+HARDWARE :
 - STB HG680P
 - ADAPTOR 12V 1A 
 - USB MALE TO USB MALE
 - PC OS WINDOWS 10 64
 
 
-# SOFTWARE: 
+SOFTWARE: 
 - [DRIVER (Amlogic_Driver atau WorldCup_Device)]((https://drive.google.com/drive/folders/1GuLrz4ICtlEJP68LmiHiHyB1lQJFxqt-?usp=drive_link))
 - [Amlogic USB Burning Tool](https://drive.google.com/drive/folders/1GuLrz4ICtlEJP68LmiHiHyB1lQJFxqt-?usp=drive_link)
 - [ATV FW HG680P.img](https://drive.google.com/drive/folders/1GuLrz4ICtlEJP68LmiHiHyB1lQJFxqt-?usp=drive_link)
 
 
 
-# STEP
+STEP
 
 1. install driver Amlogic_Driver atau WorldCup_Device, jika tidak bisa instal dalam keadaan safe mode
 
