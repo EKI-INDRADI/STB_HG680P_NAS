@@ -1,7 +1,7 @@
 
 ## ARMBIAN STB HG680P
 
-Thanks to [NanangMrk](https://www.youtube.com/watch?v=hIpA51p09iY&ab_channel=NanangMrk) & to [ophub](https://github.com/ophub/amlogic-s9xxx-armbian)
+Thanks to [NanangMrk](https://www.youtube.com/watch?v=hIpA51p09iY&ab_channel=NanangMrk) & [ophub](https://github.com/ophub/amlogic-s9xxx-armbian)
 
 RND - EKI INDRADI - TESTED 2024-06-10 
 
