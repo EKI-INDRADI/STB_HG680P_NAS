@@ -13,7 +13,7 @@ HARDWARE :
 
 
 SOFTWARE: 
-- [DRIVER (Amlogic_Driver atau WorldCup_Device)]((https://drive.google.com/drive/folders/1GuLrz4ICtlEJP68LmiHiHyB1lQJFxqt-?usp=drive_link))
+- [Driver Amlogic_Driver or WorldCup_Device](https://drive.google.com/drive/folders/1GuLrz4ICtlEJP68LmiHiHyB1lQJFxqt-?usp=drive_link)
 - [Amlogic USB Burning Tool](https://drive.google.com/drive/folders/1GuLrz4ICtlEJP68LmiHiHyB1lQJFxqt-?usp=drive_link)
 - [ATV FW HG680P.img](https://drive.google.com/drive/folders/1GuLrz4ICtlEJP68LmiHiHyB1lQJFxqt-?usp=drive_link)
 
