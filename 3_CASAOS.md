@@ -3,16 +3,16 @@
 
 Thanks to [NanangMrk](https://www.youtube.com/watch?v=hIpA51p09iY&ab_channel=NanangMrk) & [IceWhaleTech](https://github.com/IceWhaleTech/CasaOS)
 
-## RND - EKI INDRADI - TESTED 2024-06-10 
+# RND - EKI INDRADI - TESTED 2024-06-10 
 
-## HARDWARE :
+# HARDWARE :
 - STB HG680P
 - ADAPTOR 12V 1A 
 - MicroSD 8GB / 16GB / 32Gb
 - USB TO SATA CONVERTER USB 2.0 (with adapter)
 - HDD/SSD (SATA)
 
-## SOFTWARE : 
+# SOFTWARE : 
 - [CASAOS AUTO INSTALL BY IceWhaleTech](https://casaos.io/)
 
 

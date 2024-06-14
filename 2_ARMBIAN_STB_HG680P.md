@@ -3,15 +3,15 @@
 
 Thanks to [NanangMrk](https://www.youtube.com/watch?v=hIpA51p09iY&ab_channel=NanangMrk) & to [ophub](https://github.com/ophub/amlogic-s9xxx-armbian)
 
-## RND - EKI INDRADI - TESTED 2024-06-10 
+# RND - EKI INDRADI - TESTED 2024-06-10 
 
-## HARDWARE :
+# HARDWARE :
 - STB HG680P
 - ADAPTOR 12V 1A 
 - MicroSD 8GB / 16GB / 32Gb
 - SDcard/MicroSD reader USB
 
-## SOFTWARE : 
+# SOFTWARE : 
 - [Armbian_24.8.0_amlogic_s905_jammy_6.6.32_server_2024.06.01.img.gz](https://github.com/ophub/amlogic-s9xxx-armbian/release)
 - [BalenaEtcher](https://etcher.balena.io/)
 - [Terminal Emulator for Android_1.0.70_APKPure.apk](https://apkpure.com/terminal-emulator-for-android/jackpal.androidterm)
